@@ -578,9 +578,11 @@ except FileNotFoundError:
 
 # Main Program
 while True:
-    if login() is None:
+    result = login()
+    if result is None:
         break
-    role, username = login()
+    role, username = result
+    
     try:
         if role == "1":
                 while True:
