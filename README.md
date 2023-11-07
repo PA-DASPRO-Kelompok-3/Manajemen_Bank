@@ -1,3 +1,7 @@
+Lisa Nafrathiloya (2309116006)
+Nely Oktavia Redeca (2309116024)
+Farhan Imannudin (2309116028)
+
 # Manajemen_Bank
 
 Dokementasi Program
